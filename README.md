@@ -1,9 +1,9 @@
 # Global Coffee Trade EDA
-El café es uno de los productos más consumidos a nivel mundial siendo este el segundo producto más comercializado del mundo, después del petróleo. El precio del café fluctúa cada año por las altas demandas de este producto tanto de países que lo consumen domésticamente como de países que lo importan ya que las condicionas climáticas de los mismos no permiten su cosecha.
+Coffee is one of the most consumed products worldwide, being the second most traded product in the world, after oil. The price of coffee fluctuates every year due to the high demand of this product both from countries that consume it domestically as well as from countries that import it due to climatic conditions that do not allow its harvest.
 
-Debido a las amenazas que presenta el cambio climático en la producción de café, el cultivar este producto se vuelve se vuelve un proceso lleno de incertidumbre lleno de retos para la producción cafetera.
+Due to the threats that climate change presents in the production of coffee, the cultivation of this product becomes a process full of uncertainty full of challenges for coffee production. 
 
-Este proyecto busca hacer un análisis exploratorio en datos históricos sobre el comercio mundial del café, analizando sectores como producción, exportación, importación y consumo doméstico con el objetivo de encontrar patrones en los que se pueda identificar posibles factores que ayuden a tener un mejor control en cuanto a afectaciones climáticas en el cultivo de café.
+This project seeks to make an exploratory analysis of historical data on the world coffee trade, analyzing sectors such as production, exportation, importation, and domestic consumption with the objective of finding patterns in which possible factors can be identified that will help to have a better control in terms of climatic affectations in the cultivation of coffee.
 
 
 <p align="center">
