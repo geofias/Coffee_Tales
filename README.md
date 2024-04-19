@@ -5,7 +5,8 @@ Due to the threats that climate change presents in the production of coffee, the
 
 This project seeks to make an exploratory analysis of historical data on the world coffee trade, analyzing sectors such as production, exportation, importation, and domestic consumption with the objective of finding patterns in which possible factors can be identified that will help to have a better control in terms of climatic affectations in the cultivation of coffee.
 
-[Full Article](https://github.com/geofias/Coffee_Tales/blob/master/Global%20Coffee%20Trade%20EDA.pdf)
+[Report](https://github.com/geofias/Coffee_Tales/blob/master/Global%20Coffee%20Trade%20Report.pdf)
+[Article](https://github.com/geofias/Coffee_Tales/blob/master/Global%20Coffee%20Trade%20EDA.pdf)
 
 
 <p align="center">
