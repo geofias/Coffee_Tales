@@ -5,14 +5,19 @@ Due to the threats that climate change presents in the production of coffee, the
 
 This project seeks to make an exploratory analysis of historical data on the world coffee trade, analyzing sectors such as production, exportation, importation, and domestic consumption with the objective of finding patterns in which possible factors can be identified that will help to have a better control in terms of climatic affectations in the cultivation of coffee.
 
-[Report](https://github.com/geofias/Coffee_Tales/blob/master/Global%20Coffee%20Trade%20Report.pdf)
+[PDF Report](https://github.com/geofias/Coffee_Tales/blob/master/Global%20Coffee%20Trade%20Report.pdf)
 [Article](https://github.com/geofias/Coffee_Tales/blob/master/Global%20Coffee%20Trade%20EDA.pdf)
 
+## Visualization
+Visualization Tool: "Microsoft Power BI"
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/89147046/222802097-b5b7adde-1801-4f20-8e64-ff15bd8f79ce.PNG" width="600">
-</p>
+• Coffee Production
+![Production](https://github.com/geofias/Coffee_Tales/assets/89147046/b30a8be3-b25a-4c70-9cac-af18d876c1d0)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/89147046/222802226-b2de7a55-3016-4361-a24a-9e83051603c7.png" width="800">
-</p>
+• Coffee Import
+![Import](https://github.com/geofias/Coffee_Tales/assets/89147046/998ed593-e222-4aee-a737-27cf9f3e6f92)
+
+• Coffee Export
+![Export](https://github.com/geofias/Coffee_Tales/assets/89147046/9822c200-9b03-46fb-8566-796b3a043bed)
+
+Download report file and open in Power BI
