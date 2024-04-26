@@ -21,3 +21,4 @@ Visualization Tool: "Microsoft Power BI"
 ![Export](https://github.com/geofias/Coffee_Tales/assets/89147046/9822c200-9b03-46fb-8566-796b3a043bed)
 
 Download report file and open in Power BI
+[Download report file](https://github.com/geofias/Coffee_Tales/blob/master/coffee_report.pbix) and open in Power BI Desktop for interactive viewing.
