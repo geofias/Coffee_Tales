@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 streamlit
-PIL
+pillow
 tensorflow
 tensorflow_hub
 numpy
