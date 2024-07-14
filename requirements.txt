@@ -97,9 +97,6 @@ smmap==5.0.0
 stack-data==0.6.2
 streamlit==1.36.0
 tenacity==8.5.0
-tensorboard==2.10.1
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
 tensorflow==2.13.1
 tensorflow-estimator==2.10.0
 tensorflow-hub==0.12.0
