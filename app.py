@@ -5,7 +5,7 @@ import tensorflow_hub as hub
 import numpy as np
 
 # Loading trained moel
-model = tf.keras.models.load_model('C:/Users/tamir/Documents/Projects/CoffeeLeaves_Classification/model/coffee_model', 
+model = tf.keras.models.load_model('Coffee_tales/model', 
                                    custom_objects={'KerasLayer':hub.KerasLayer})
 
 st.title('Coffe Leaf Disease Detection')
