@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-tensorflow==2.10.0
+tensorflow
 tensorflow-hub==0.16.1
 tf_keras==2.16.0
 keras==2.10.0
