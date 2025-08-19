@@ -44,6 +44,8 @@ The model is built using TensorFlow and trained on a dataset of labeled coffee l
 ### Deployment
 The model is deployed as a web application using Streamlit. You can access the application [here](https://coffeeleafdisease.streamlit.app/).
 
+![Alt Text](model/coffee_streamlit_app.PNG)
+
 ### Usage
 **Upload Image**: Upload an image of a coffee leaf.
 **Get Prediction**: The model processes the image and returns a prediction of the disease.
